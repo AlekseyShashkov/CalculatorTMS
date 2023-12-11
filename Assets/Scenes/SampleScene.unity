@@ -234,7 +234,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: cf97928eb0c4841419d5b9fa813e3360, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _calculator: {fileID: 0}
   _resultPanel: {fileID: 1549521184}
 --- !u!1 &16340691
 GameObject:
@@ -1257,7 +1256,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: cf97928eb0c4841419d5b9fa813e3360, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _calculator: {fileID: 0}
   _resultPanel: {fileID: 1549521184}
 --- !u!1 &379159381
 GameObject:
@@ -1812,7 +1810,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: cf97928eb0c4841419d5b9fa813e3360, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _calculator: {fileID: 0}
   _resultPanel: {fileID: 1549521184}
 --- !u!1 &630038309
 GameObject:
@@ -1925,7 +1922,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: cf97928eb0c4841419d5b9fa813e3360, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _calculator: {fileID: 0}
   _resultPanel: {fileID: 1549521184}
 --- !u!1 &665165736
 GameObject:
@@ -2732,7 +2728,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: cf97928eb0c4841419d5b9fa813e3360, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _calculator: {fileID: 0}
   _resultPanel: {fileID: 1549521184}
 --- !u!1 &1044126653
 GameObject:
@@ -2845,7 +2840,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: cf97928eb0c4841419d5b9fa813e3360, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _calculator: {fileID: 0}
   _resultPanel: {fileID: 1549521184}
 --- !u!1 &1073921028
 GameObject:
@@ -2958,7 +2952,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: cf97928eb0c4841419d5b9fa813e3360, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _calculator: {fileID: 0}
   _resultPanel: {fileID: 1549521184}
 --- !u!1 &1118739163
 GameObject:
@@ -3071,7 +3064,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: cf97928eb0c4841419d5b9fa813e3360, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _calculator: {fileID: 0}
   _resultPanel: {fileID: 1549521184}
 --- !u!1 &1253343386
 GameObject:
@@ -3184,7 +3176,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: cf97928eb0c4841419d5b9fa813e3360, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _calculator: {fileID: 0}
   _resultPanel: {fileID: 1549521184}
 --- !u!1 &1284934190
 GameObject:
@@ -3297,7 +3288,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: cf97928eb0c4841419d5b9fa813e3360, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _calculator: {fileID: 0}
   _resultPanel: {fileID: 1549521184}
 --- !u!1 &1309631485
 GameObject:
@@ -3507,7 +3497,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: cf97928eb0c4841419d5b9fa813e3360, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _calculator: {fileID: 0}
   _resultPanel: {fileID: 1549521184}
 --- !u!1 &1369491118
 GameObject:
@@ -4236,7 +4225,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: cf97928eb0c4841419d5b9fa813e3360, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _calculator: {fileID: 0}
   _resultPanel: {fileID: 1549521184}
 --- !u!1 &1549521184
 GameObject:
@@ -4534,7 +4522,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: cf97928eb0c4841419d5b9fa813e3360, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _calculator: {fileID: 0}
   _resultPanel: {fileID: 1549521184}
 --- !u!1 &1596754815
 GameObject:
@@ -5163,7 +5150,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: cf97928eb0c4841419d5b9fa813e3360, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _calculator: {fileID: 0}
   _resultPanel: {fileID: 1549521184}
 --- !u!1 &1956333055
 GameObject:
@@ -5448,7 +5434,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: cf97928eb0c4841419d5b9fa813e3360, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _calculator: {fileID: 0}
   _resultPanel: {fileID: 1549521184}
 --- !u!1 &1989124709
 GameObject:
@@ -5561,5 +5546,4 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: cf97928eb0c4841419d5b9fa813e3360, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _calculator: {fileID: 0}
   _resultPanel: {fileID: 1549521184}

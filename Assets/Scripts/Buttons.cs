@@ -4,8 +4,8 @@ using UnityEngine;
 
 public class Buttons : MonoBehaviour
 {
-    public Calculator _calculator  = null;
-    public GameObject _resultPanel = null;
+    private Calculator _calculator  = null;
+    public  GameObject _resultPanel = null;
 
     private void Start()
     {
