@@ -18,3 +18,6 @@
 - [Unity Shorts #2: Clicking on a 3D object](https://medium.com/geekculture/unity-shorts-2-clicking-on-a-3d-object-2f37db248f7d)
 - [TextMeshPro.SetText](http://digitalnativestudios.com/textmeshpro/docs/ScriptReference/TextMeshPro-SetText.html)
 - [GameObject.GetComponent](https://docs.unity3d.com/ScriptReference/GameObject.GetComponent.html)
+
+## 📌Extra:
+Добавил CalculatorTMS.unitypackage для удобства запуска.
