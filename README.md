@@ -20,4 +20,4 @@
 - [GameObject.GetComponent](https://docs.unity3d.com/ScriptReference/GameObject.GetComponent.html)
 
 ## 📌Extra:
-Добавил CalculatorTMS.unitypackage для простоты запуска.
+Добавил CalculatorTMS.unitypackage для удобства запуска.
